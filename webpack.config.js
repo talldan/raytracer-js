@@ -1,11 +1,11 @@
 const {
   addPlugins,
-  createConfig, 
-  defineConstants, 
-  env, 
-  entryPoint, 
-  setOutput, 
-  sourceMaps 
+  createConfig,
+  defineConstants,
+  env,
+  entryPoint,
+  setOutput,
+  sourceMaps
 } = require('@webpack-blocks/webpack2');
 const babel = require('@webpack-blocks/babel6');
 const devServer = require('@webpack-blocks/dev-server2');
