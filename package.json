@@ -1,0 +1,13 @@
+{
+  "name": "raytracer",
+  "version": "1.0.0",
+  "description": "Raytracing in one weekend",
+  "main": "index.js",
+  "author": "Daniel Richards",
+  "license": "MIT",
+  "devDependencies": {
+    "@webpack-blocks/babel6": "^0.4.1",
+    "@webpack-blocks/dev-server2": "^0.4.0",
+    "@webpack-blocks/webpack2": "^0.4.0"
+  }
+}
