@@ -2,7 +2,7 @@
   "name": "raytracer",
   "version": "1.0.0",
   "description": "Raytracing in one weekend",
-  "main": "index.js",
+  "main": "src/main.js",
   "author": "Daniel Richards",
   "license": "MIT",
   "devDependencies": {
